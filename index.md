@@ -7,7 +7,9 @@ Probably
 Reasons Why
 
 1)It has an image of fried chicken
+
 2)It is made with github pages
+
 3)MARKDOWN!
 
 '''
