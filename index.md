@@ -1,9 +1,14 @@
-#The best Website! ##In the world! Probably
+#The best Website! 
+##In the world! 
+Probably
 Reasons Why
 
-It has an image of fried chicken
-It is made with github pages
-MARKDOWN!
-''' #code block printf('cash money!'); '''
+1)It has an image of fried chicken
+2)It is made with github pages
+3)MARKDOWN!
 
-Fried Chicken
+'''
+#code block printf('cash money!'); 
+'''
+
+![Fried Chicken](https://static.vecteezy.com/system/resources/previews/050/382/706/non_2x/fried-chicken-on-a-plate-on-a-transparent-background-png.png)
